@@ -13,4 +13,4 @@ if __name__ == "__main__":
     numeros = [2, 7, 11, 15]
     alvo = int(input("Digite o valor alvo: \n>>"))
     resultado = two_sum(numeros, alvo)
-    print(resultado)  # saída esperada: [0, 1]
+    print(resultado)  # saída esperada: [0, 1] 
